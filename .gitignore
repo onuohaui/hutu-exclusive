@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diagnostic / temporary
+tmp
+tmp/
+vault/temp/SESSION_JOURNAL.md
+
+# Archives & backups
+*.tar.gz
+*.zip
+*.tar
+
+# Dependencies
+node_modules
+apps/web/node_modules
+
+# Production / build outputs
+dist
+dist/
+dist-ssr
+*.local
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Editor & OS files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

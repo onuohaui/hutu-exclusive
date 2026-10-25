@@ -1,0 +1,1827 @@
+{
+  "meta": {
+    "estate": "Hutu Exclusive Abuja",
+    "lastUpdated": "2026-09",
+    "currency": "NGN",
+    "location": "Hutu Abuja, Airport Road, Before Centenary City, F.C.T. Abuja",
+    "sourceDocuments": [
+      "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+      "SEPTEMBER ULTRA NEWSLETTER 2026"
+    ],
+    "notes": [
+      "Only currently described Hutu Exclusive inventory requested by the user is included.",
+      "Phase 5 contains land/site-and-service options only; no apartments/houses are included.",
+      "Commercial inventory includes Hutu Exclusive Shopping Mall in Phase 1 & 2 only.",
+      "Source inconsistencies are flagged with requiresVerification rather than guessed.",
+      "Image paths are placeholders to be mapped to final prototype/render images later."
+    ]
+  },
+  "properties": [
+    {
+      "id": "p12_land_150_3bed_terrace",
+      "slug": "p12-land-150-3bed-terrace",
+      "name": "3 Bedroom Terrace Duplex",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 150,
+      "bedrooms": 3,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 22453200,
+          "initialDeposit": 11226600,
+          "depositPercent": 50,
+          "monthlyPayment": 2806650,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 25147584,
+          "initialDeposit": 7544275,
+          "depositPercent": 30,
+          "monthlyPayment": 2200414,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_land_150_3bed_terrace.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 9,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_land_250_4bed_semi",
+      "slug": "p12-land-250-4bed-semi",
+      "name": "4 Bedroom Semi-Detached Duplex",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 250,
+      "bedrooms": 4,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 37422000,
+          "initialDeposit": 18711000,
+          "depositPercent": 50,
+          "monthlyPayment": 4677750,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 41912640,
+          "initialDeposit": 12573792,
+          "depositPercent": 30,
+          "monthlyPayment": 3667356,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_land_250_4bed_semi.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 9,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_land_350_4bed_full",
+      "slug": "p12-land-350-4bed-full",
+      "name": "4 Bedroom Fully Detached Duplex",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 350,
+      "bedrooms": 4,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 52390800,
+          "initialDeposit": 26195400,
+          "depositPercent": 50,
+          "monthlyPayment": 6548850,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 58677696,
+          "initialDeposit": 17603309,
+          "depositPercent": 30,
+          "monthlyPayment": 5134298.4,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_land_350_4bed_full.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 9,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_land_450_1bed_block",
+      "slug": "p12-land-450-1bed-block",
+      "name": "1 Bedroom Block of Apartments",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 450,
+      "bedrooms": 1,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 67359600,
+          "initialDeposit": 33679800,
+          "depositPercent": 50,
+          "monthlyPayment": 8419950,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 75442752,
+          "initialDeposit": 22632826,
+          "depositPercent": 30,
+          "monthlyPayment": 6601241,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_land_450_1bed_block.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 10,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_land_1000_7bed_full",
+      "slug": "p12-land-1000-7bed-full",
+      "name": "7 Bedroom Fully Detached Duplex",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 1000,
+      "bedrooms": 7,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 149688000,
+          "initialDeposit": 74844000,
+          "depositPercent": 50,
+          "monthlyPayment": 18711000,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 167650560,
+          "initialDeposit": 50295168,
+          "depositPercent": 30,
+          "monthlyPayment": 14669424,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_land_1000_7bed_full.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 10,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_land_1000_3bed_block",
+      "slug": "p12-land-1000-3bed-block",
+      "name": "3 Bedroom Block of Apartments",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 1000,
+      "bedrooms": 3,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 149688000,
+          "initialDeposit": 74844000,
+          "depositPercent": 50,
+          "monthlyPayment": 18711000,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 167650560,
+          "initialDeposit": 50295168,
+          "depositPercent": 30,
+          "monthlyPayment": 14669424,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_land_1000_3bed_block.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 10,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_land_150_3bed_terrace",
+      "slug": "p3-land-150-3bed-terrace",
+      "name": "3 Bedroom Terrace Duplex",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 150,
+      "bedrooms": 3,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 11689453,
+          "initialDeposit": 3506836,
+          "depositPercent": 30,
+          "monthlyPayment": 2045654,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 12624609,
+          "initialDeposit": 3787383,
+          "depositPercent": 30,
+          "monthlyPayment": 1104653,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 13634578,
+          "initialDeposit": 4090373,
+          "depositPercent": 30,
+          "monthlyPayment": 795350,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 15270727,
+          "initialDeposit": 3054145,
+          "depositPercent": 20,
+          "monthlyPayment": 678699,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_land_150_3bed_terrace.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 11,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_land_250_4bed_semi",
+      "slug": "p3-land-250-4bed-semi",
+      "name": "4 Bedroom Semi-Detached Duplex",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 250,
+      "bedrooms": 4,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 19482422,
+          "initialDeposit": 5844727,
+          "depositPercent": 30,
+          "monthlyPayment": 3409424,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 21041016,
+          "initialDeposit": 6312305,
+          "depositPercent": 30,
+          "monthlyPayment": 1841089,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 22724297,
+          "initialDeposit": 6817289,
+          "depositPercent": 30,
+          "monthlyPayment": 1325584,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 25451213,
+          "initialDeposit": 5090243,
+          "depositPercent": 20,
+          "monthlyPayment": 1131165,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_land_250_4bed_semi.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 11,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_land_350_4bed_full",
+      "slug": "p3-land-350-4bed-full",
+      "name": "4 Bedroom Fully Detached Duplex",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 350,
+      "bedrooms": 4,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 23376465,
+          "initialDeposit": 7012940,
+          "depositPercent": 30,
+          "monthlyPayment": 4090881,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 25246582,
+          "initialDeposit": 7573975,
+          "depositPercent": 30,
+          "monthlyPayment": 2209076,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 27266309,
+          "initialDeposit": 8179893,
+          "depositPercent": 30,
+          "monthlyPayment": 1590535,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 30538266,
+          "initialDeposit": 6107653,
+          "depositPercent": 20,
+          "monthlyPayment": 1357256,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_land_350_4bed_full.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 11,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_land_450_1bed_block",
+      "slug": "p3-land-450-1bed-block",
+      "name": "1 Bedroom Block of Apartments",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 450,
+      "bedrooms": 1,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 35063476,
+          "initialDeposit": 10519043,
+          "depositPercent": 30,
+          "monthlyPayment": 6136108,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 37868554,
+          "initialDeposit": 11360566,
+          "depositPercent": 30,
+          "monthlyPayment": 3313499,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 40898039,
+          "initialDeposit": 12269412,
+          "depositPercent": 30,
+          "monthlyPayment": 2385719,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 45805804,
+          "initialDeposit": 9161161,
+          "depositPercent": 20,
+          "monthlyPayment": 2035814,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_land_450_1bed_block.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 12,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_land_500_5bed_full",
+      "slug": "p3-land-500-5bed-full",
+      "name": "5 Bedroom Fully Detached Duplex",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 500,
+      "bedrooms": 5,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 38964844,
+          "initialDeposit": 11689453,
+          "depositPercent": 30,
+          "monthlyPayment": 6818848,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 42082032,
+          "initialDeposit": 12624610,
+          "depositPercent": 30,
+          "monthlyPayment": 3682178,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 45448594,
+          "initialDeposit": 13634579,
+          "depositPercent": 30,
+          "monthlyPayment": 2651169,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 50902425,
+          "initialDeposit": 10180485,
+          "depositPercent": 20,
+          "monthlyPayment": 2262330,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_land_500_5bed_full.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 12,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_land_750_2bed_block",
+      "slug": "p3-land-750-2bed-block",
+      "name": "2 Bedroom Block of Apartments",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 750,
+      "bedrooms": 2,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 58437500,
+          "initialDeposit": 17531250,
+          "depositPercent": 30,
+          "monthlyPayment": 10226563,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 63112500,
+          "initialDeposit": 18933750,
+          "depositPercent": 30,
+          "monthlyPayment": 5522344,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 68161500,
+          "initialDeposit": 20448450,
+          "depositPercent": 30,
+          "monthlyPayment": 3976088,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 76340880,
+          "initialDeposit": 15268176,
+          "depositPercent": 20,
+          "monthlyPayment": 3392928,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_land_750_2bed_block.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 12,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_land_1000_7bed_full",
+      "slug": "p3-land-1000-7bed-full",
+      "name": "7 Bedroom Fully Detached Duplex",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 1000,
+      "bedrooms": 7,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [],
+      "image": "/images/properties/p3_land_1000_7bed_full.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 13,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true,
+      "pricingNote": "Newsletter heading shows ₦77,917,480, but the payment table beneath it appears to contain copied figures from the 500sqm option. Payment-plan figures intentionally left blank pending confirmation.",
+      "requiresVerification": true,
+      "displayStartingPrice": 77917480
+    },
+    {
+      "id": "p3_land_1000_3bed_block",
+      "slug": "p3-land-1000-3bed-block",
+      "name": "3 Bedroom Block of Apartments",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 1000,
+      "bedrooms": 3,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 77917480,
+          "initialDeposit": 23375244,
+          "depositPercent": 30,
+          "monthlyPayment": 13635559,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 84150878,
+          "initialDeposit": 25245273,
+          "depositPercent": 30,
+          "monthlyPayment": 7363201,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 90882949,
+          "initialDeposit": 27264885,
+          "depositPercent": 30,
+          "monthlyPayment": 5134839,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 101788903,
+          "initialDeposit": 20357781,
+          "depositPercent": 20,
+          "monthlyPayment": 4523951,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_land_1000_3bed_block.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 13,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p5_land_150_3bed_terrace",
+      "slug": "p5-land-150-3bed-terrace",
+      "name": "3 Bedroom Terrace Duplex",
+      "phase": "Phase 5",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 150,
+      "bedrooms": 3,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 6,
+          "totalPrice": 8250000,
+          "initialDeposit": 2475000,
+          "depositPercent": 30,
+          "monthlyPayment": 962500,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 9240000,
+          "initialDeposit": 2772000,
+          "depositPercent": 30,
+          "monthlyPayment": 539000,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p5_land_150_3bed_terrace.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 14,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p5_land_250_4bed_semi",
+      "slug": "p5-land-250-4bed-semi",
+      "name": "4 Bedroom Semi-Detached Duplex",
+      "phase": "Phase 5",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 250,
+      "bedrooms": 4,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 6,
+          "totalPrice": 13750000,
+          "initialDeposit": 4125000,
+          "depositPercent": 30,
+          "monthlyPayment": 1604167,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 15400000,
+          "initialDeposit": 4620000,
+          "depositPercent": 30,
+          "monthlyPayment": 898333,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p5_land_250_4bed_semi.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 14,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p5_land_350_4bed_full",
+      "slug": "p5-land-350-4bed-full",
+      "name": "4 Bedroom Fully Detached Duplex",
+      "phase": "Phase 5",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 350,
+      "bedrooms": 4,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 6,
+          "totalPrice": 19250000,
+          "initialDeposit": 5775000,
+          "depositPercent": 30,
+          "monthlyPayment": 2245833,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 21560000,
+          "initialDeposit": 6468000,
+          "depositPercent": 30,
+          "monthlyPayment": 1257667,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p5_land_350_4bed_full.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 14,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p5_land_500_5bed_full",
+      "slug": "p5-land-500-5bed-full",
+      "name": "5 Bedroom Fully Detached Duplex",
+      "phase": "Phase 5",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 500,
+      "bedrooms": 5,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 6,
+          "totalPrice": 27500000,
+          "initialDeposit": 8250000,
+          "depositPercent": 30,
+          "monthlyPayment": 3208333,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 30800000,
+          "initialDeposit": 9240000,
+          "depositPercent": 30,
+          "monthlyPayment": 1796667,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p5_land_500_5bed_full.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 15,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p5_land_1000_7bed_full",
+      "slug": "p5-land-1000-7bed-full",
+      "name": "7 Bedroom Fully Detached Duplex",
+      "phase": "Phase 5",
+      "category": "Residential",
+      "productType": "Land",
+      "subtype": "Estate Land / Site & Service",
+      "sizeSqm": 1000,
+      "bedrooms": 7,
+      "finishing": null,
+      "finishingIncludes": [],
+      "paymentPlans": [
+        {
+          "durationMonths": 4,
+          "totalPrice": 55000000,
+          "initialDeposit": 16500000,
+          "depositPercent": 30,
+          "monthlyPayment": 6416667,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 8,
+          "totalPrice": 61600000,
+          "initialDeposit": 18480000,
+          "depositPercent": 30,
+          "monthlyPayment": 3593333,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p5_land_1000_7bed_full.jpg",
+      "source": {
+        "document": "SEPTEMBER SITE & SERVICE NEWSLETTER 2026",
+        "newsletterPage": 15,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_house_1bed_apartment",
+      "slug": "p12-house-1bed-apartment",
+      "name": "1 Bedroom Apartment",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment",
+      "sizeSqm": null,
+      "bedrooms": 1,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 12,
+          "totalPrice": 78107000,
+          "initialDeposit": 23432100,
+          "depositPercent": null,
+          "monthlyPayment": null,
+          "note": "The newsletter prints '(20%)' beside the initial deposit, but ₦23,432,100 is 30% of ₦78,107,000. Amount retained; percentage left untrusted.",
+          "requiresVerification": true
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 93728400,
+          "initialDeposit": 18745680,
+          "depositPercent": 20,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_house_1bed_apartment.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 10,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_house_2bed_apartment",
+      "slug": "p12-house-2bed-apartment",
+      "name": "2 Bedroom Apartment",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment",
+      "sizeSqm": null,
+      "bedrooms": 2,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 12,
+          "totalPrice": 119591901,
+          "initialDeposit": 23918380,
+          "depositPercent": 20,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 143510281,
+          "initialDeposit": 28702056,
+          "depositPercent": 20,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_house_2bed_apartment.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 10,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_house_3bed_apartment",
+      "slug": "p12-house-3bed-apartment",
+      "name": "3 Bedroom Apartment",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment",
+      "sizeSqm": null,
+      "bedrooms": 3,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 12,
+          "totalPrice": 152423551,
+          "initialDeposit": 30484710,
+          "depositPercent": 20,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 182908262,
+          "initialDeposit": 36581652,
+          "depositPercent": 20,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_house_3bed_apartment.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 11,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_house_3bed_terrace",
+      "slug": "p12-house-3bed-terrace",
+      "name": "3 Bedroom Terrace Duplex",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Duplex",
+      "sizeSqm": null,
+      "bedrooms": 3,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 8,
+          "totalPrice": 199956359,
+          "initialDeposit": 59986908,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 223951122,
+          "initialDeposit": 67185337,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_house_3bed_terrace.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 12,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_house_4bed_semi",
+      "slug": "p12-house-4bed-semi",
+      "name": "4 Bedroom Semi-Detached Duplex",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Duplex",
+      "sizeSqm": null,
+      "bedrooms": 4,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 8,
+          "totalPrice": 286094075,
+          "initialDeposit": 85828223,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 320425363,
+          "initialDeposit": 96127609,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_house_4bed_semi.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 12,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_house_4bed_full",
+      "slug": "p12-house-4bed-full",
+      "name": "4 Bedroom Fully Detached Duplex",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Duplex",
+      "sizeSqm": null,
+      "bedrooms": 4,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 8,
+          "totalPrice": 367024236,
+          "initialDeposit": 110107271,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": "The newsletter heading says 8 months but the listed installment month labels appear inconsistent. Total and initial deposit retained.",
+          "requiresVerification": true
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 411067144,
+          "initialDeposit": 123320143,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_house_4bed_full.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 13,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_house_7bed_full",
+      "slug": "p12-house-7bed-full",
+      "name": "7 Bedroom Fully Detached Duplex",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Duplex",
+      "sizeSqm": null,
+      "bedrooms": 7,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 8,
+          "totalPrice": 655815257,
+          "initialDeposit": 196744577,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 734513088,
+          "initialDeposit": 220353926,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_house_7bed_full.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 13,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_house_1bed_block_6",
+      "slug": "p12-house-1bed-block-6",
+      "name": "1 Bedroom Block of Apartments (6 Units)",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment Block",
+      "sizeSqm": null,
+      "bedrooms": 1,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 8,
+          "totalPrice": 468642033,
+          "initialDeposit": 140592610,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 524879077,
+          "initialDeposit": 157463723,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_house_1bed_block_6.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 14,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_house_2bed_block_6",
+      "slug": "p12-house-2bed-block-6",
+      "name": "2 Bedroom Block of Apartments (6 Units)",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment Block",
+      "sizeSqm": null,
+      "bedrooms": 2,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 8,
+          "totalPrice": 714738910,
+          "initialDeposit": 214421673,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 800507579,
+          "initialDeposit": 240152274,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_house_2bed_block_6.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 14,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_house_3bed_block_6",
+      "slug": "p12-house-3bed-block-6",
+      "name": "3 Bedroom Block of Apartments (6 Units)",
+      "phase": "Phase 1 & 2",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment Block",
+      "sizeSqm": null,
+      "bedrooms": 3,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 8,
+          "totalPrice": 914541309,
+          "initialDeposit": 274362393,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 1024286266,
+          "initialDeposit": 307285880,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p12_house_3bed_block_6.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 15,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_house_1bed_apartment",
+      "slug": "p3-house-1bed-apartment",
+      "name": "1 Bedroom Apartment",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment",
+      "sizeSqm": null,
+      "bedrooms": 1,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 12,
+          "totalPrice": 78107000,
+          "initialDeposit": 23432100,
+          "depositPercent": null,
+          "monthlyPayment": null,
+          "note": "The newsletter prints '(20%)' beside the initial deposit, but ₦23,432,100 is 30% of ₦78,107,000. Amount retained; percentage left untrusted.",
+          "requiresVerification": true
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 93728400,
+          "initialDeposit": 18745680,
+          "depositPercent": 20,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_house_1bed_apartment.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 16,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_house_2bed_apartment",
+      "slug": "p3-house-2bed-apartment",
+      "name": "2 Bedroom Apartment",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment",
+      "sizeSqm": null,
+      "bedrooms": 2,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 12,
+          "totalPrice": 119591901,
+          "initialDeposit": 23918380,
+          "depositPercent": 20,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 143510281,
+          "initialDeposit": 28702056,
+          "depositPercent": 20,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_house_2bed_apartment.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 16,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_house_3bed_apartment",
+      "slug": "p3-house-3bed-apartment",
+      "name": "3 Bedroom Apartment",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment",
+      "sizeSqm": null,
+      "bedrooms": 3,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 12,
+          "totalPrice": 152423551,
+          "initialDeposit": 30484710,
+          "depositPercent": 20,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 18,
+          "totalPrice": 182908262,
+          "initialDeposit": 36581652,
+          "depositPercent": 20,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_house_3bed_apartment.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 17,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_house_1bed_block_6",
+      "slug": "p3-house-1bed-block-6",
+      "name": "1 Bedroom Block of Apartments (6 Units)",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment Block",
+      "sizeSqm": null,
+      "bedrooms": 1,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 8,
+          "totalPrice": 468642033,
+          "initialDeposit": 140592610,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 524879077,
+          "initialDeposit": 157463723,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_house_1bed_block_6.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 18,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_house_2bed_block_6",
+      "slug": "p3-house-2bed-block-6",
+      "name": "2 Bedroom Block of Apartments (6 Units)",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment Block",
+      "sizeSqm": null,
+      "bedrooms": 2,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 8,
+          "totalPrice": 714738910,
+          "initialDeposit": 214421673,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 800507579,
+          "initialDeposit": 240152274,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_house_2bed_block_6.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 18,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p3_house_3bed_block_6",
+      "slug": "p3-house-3bed-block-6",
+      "name": "3 Bedroom Block of Apartments (6 Units)",
+      "phase": "Phase 3",
+      "category": "Residential",
+      "productType": "House / Apartment",
+      "subtype": "Apartment Block",
+      "sizeSqm": null,
+      "bedrooms": 3,
+      "finishing": "Bronze",
+      "finishingIncludes": [
+        "Screeding",
+        "POP",
+        "Wiring",
+        "Fittings",
+        "Internal Doors",
+        "Painting",
+        "Tiling",
+        "External Finishing",
+        "Infrastructure",
+        "Roofing",
+        "Mechanical Piping",
+        "Burglary Proof"
+      ],
+      "paymentPlans": [
+        {
+          "durationMonths": 8,
+          "totalPrice": 914541309,
+          "initialDeposit": 274362393,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        },
+        {
+          "durationMonths": 12,
+          "totalPrice": 1024286266,
+          "initialDeposit": 307285880,
+          "depositPercent": 30,
+          "monthlyPayment": null,
+          "note": null,
+          "requiresVerification": false
+        }
+      ],
+      "image": "/images/properties/p3_house_3bed_block_6.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 19,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    },
+    {
+      "id": "p12_commercial_shopping_mall",
+      "slug": "hutu-exclusive-shopping-mall",
+      "name": "Hutu Exclusive Shopping Mall",
+      "phase": "Phase 1 & 2",
+      "category": "Commercial",
+      "productType": "Commercial",
+      "subtype": "Shopping Mall Space",
+      "minimumSqm": 30,
+      "pricingMode": "per_sqm",
+      "floorPricing": [
+        {
+          "floor": "Ground Floor",
+          "pricePerSqm": 2406250
+        },
+        {
+          "floor": "First Floor",
+          "pricePerSqm": 2310000
+        },
+        {
+          "floor": "Second Floor",
+          "pricePerSqm": 2213750
+        },
+        {
+          "floor": "Third Floor",
+          "pricePerSqm": 2117500
+        },
+        {
+          "floor": "Fourth Floor",
+          "pricePerSqm": 2021250
+        },
+        {
+          "floor": "Fifth Floor",
+          "pricePerSqm": 1925000
+        }
+      ],
+      "paymentPlan": {
+        "durationMonthsAvailable": [
+          6,
+          12
+        ],
+        "detailsOnRequest": true,
+        "note": "Newsletter states 6–12 month payment plan available; deposit breakdown is not published on this page."
+      },
+      "image": "/images/properties/p12_commercial_shopping_mall.jpg",
+      "source": {
+        "document": "SEPTEMBER ULTRA NEWSLETTER 2026",
+        "newsletterPage": 32,
+        "edition": "September 2026"
+      },
+      "lastUpdated": "2026-09",
+      "active": true
+    }
+  ]
+}
